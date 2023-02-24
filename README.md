@@ -1,7 +1,7 @@
 Projet Dataviz
 =============
 
-__Authors__ Kristine kirakosiani, Audrey Djibilian, Klervy Le Dez
+__Authors__ Kristine kirakosiani, Nadège Hellemans, Klervy Le Dez
 
 Projet réalisé dans le cadre de la formation chez Ada Tech School
 _ _ _ _ 
