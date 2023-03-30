@@ -3,7 +3,7 @@ Projet Dataviz
 
 __Authors__ Kristine kirakosiani, Nadège Hellemans, Klervy Le Dez
 
-Projet réalisé dans le cadre de la formation chez Ada Tech School
+Projet réalisé dans le cadre de la formation chez Ada Tech School en 7 jours
 _ _ _ _ 
 
 Objectifs du projet
